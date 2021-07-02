@@ -1,0 +1,109 @@
+Adamantine Armor
+Mariner's Armor
+Mithral Armor
+Sentinel Shield
+Shield, +1
+Oil of Slipperiness
+Philter of Love
+Potion of Animal Friendship
+Potion of Fire Breath
+Potion of Greater Healing
+Potion of Growth
+Potion of Hill Giant Strength
+Potion of Poison
+Potion of Resistance
+Potion of Water Breathing
+Ring of Jumping
+Ring of Mind Shielding
+Ring of Swimming
+Ring of Warmth
+Ring of Water Walking
+Immovable Rod
+Rod of the Pact Keeper, +1
+Spell Scroll, 2nd Level
+Spell Scroll, 3rd Level
+Staff of the Adder
+Staff of the Python
+Wand of Magic Detection
+Wand of Magic Missiles
+Wand of Secrets
+Wand of Web
+Wand of the War Mage, +1
+Ammunition, +1
+Javelin of Lightning
+Moon Sickle, +1
+Sword of Vengeance
+Trident of Fish Command
+Weapon of Warning
+Weapon, +1
+Alchemy Jug
+All-Purpose Tool, +1
+Amulet of Proof Against Detection and Location
+Amulet of the Devout, +1
+Arcane Grimoire, +1
+Bag of Holding
+Bag of Tricks
+Barrier Tattoo, AC 12
+Bloodwell Vial, +1
+Boots of Elvenkind
+Boots of Striding and Springing
+Boots of the Winterlands
+Bracers of Archery
+Brooch of Shielding
+Broom of Flying
+Cap of Water Breathing
+Circlet of Blasting
+Cloak of Elvenkind
+Cloak of Protection
+Cloak of the Manta Ray
+Coiling Grasp Tattoo
+Decanter of Endless Water
+Deck of Illusions
+Driftglobe
+Dust of Disappearance
+Dust of Dryness
+Dust of Sneezing and Choking
+Eldritch Claw Tattoo
+Elemental Gem
+Eversmoking Bottle
+Eyes of Charming
+Eyes of Minute Seeing
+Eyes of the Eagle
+Feywild Shard
+Figurine of Wondrous Power, Silver Raven
+Gauntlets of Ogre Power
+Gem of Brightness
+Gloves of Missile Snaring
+Gloves of Swimming and Climbing
+Gloves of Thievery
+Goggles of Night
+Guardian Emblem
+Hat of Disguise
+Headband of Intellect
+Helm of Comprehending Languages
+Helm of Telepathy
+Instrument of the Bards, Doss Lute
+Instrument of the Bards, Fochlucan Bandore
+Instrument of the Bards, Mac-Fuirmidh Cittern
+Keoghtom's Ointment
+Lantern of Revealing
+Medallion of Thoughts
+Nature's Mantle
+Necklace of Adaptation
+Pearl of Power
+Periapt of Health
+Periapt of Wound Closure
+Pipes of Haunting
+Pipes of the Sewers
+Quiver of Ehlonna
+Rhythm-Maker's Drum, +1
+Robe of Useful Items
+Rope of Climbing
+Saddle of the Cavalier
+Sending Stones
+Slippers of Spider Climbing
+Spellwrought Tattoo, 2nd Level
+Spellwrought Tattoo, 3rd Level
+Stone of Good Luck
+Wind Fan
+Winged Boots

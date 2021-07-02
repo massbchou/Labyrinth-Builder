@@ -1,0 +1,555 @@
+Acid Splash
+Blade Ward
+Booming Blade
+Chill Touch
+Control Flames
+Create Bonfire
+Dancing Lights
+Decompose (HB)
+Druidcraft
+Eldritch Blast
+Encode Thoughts
+Fire Bolt
+Friends
+Frostbite
+Green-Flame Blade
+Guidance
+Gust
+Hand of Radiance (UA)
+Infestation
+Light
+Lightning Lure
+Mage Hand
+Magic Stone
+Mending
+Message
+Mind Sliver
+Minor Illusion
+Mold Earth
+On/Off (UA)
+Poison Spray
+Prestidigitation
+Primal Savagery
+Produce Flame
+Ray of Frost
+Resistance
+Sacred Flame
+Sapping Sting
+Shape Water
+Shillelagh
+Shocking Grasp
+Spare the Dying
+Sword Burst
+Thaumaturgy
+Thorn Whip
+Thunderclap
+Toll the Dead
+True Strike
+Vicious Mockery
+Virtue (UA)
+Word of Radiance
+Absorb Elements
+Acid Stream (UA)
+Alarm
+Animal Friendship
+Arcane Weapon (UA)
+Armor of Agathys
+Arms of Hadar
+Bane
+Beast Bond
+Bless
+Burning Hands
+Catapult
+Cause Fear
+Ceremony
+Chaos Bolt
+Charm Person
+Chromatic Orb
+Color Spray
+Command
+Compelled Duel
+Comprehend Languages
+Create or Destroy Water
+Cure Wounds
+Detect Evil and Good
+Detect Magic
+Detect Poison and Disease
+Disguise Self
+Dissonant Whispers
+Distort Value
+Divine Favor
+Earth Tremor
+Ensnaring Strike
+Entangle
+Expeditious Retreat
+Faerie Fire
+False Life
+Feather Fall
+Find Familiar
+Fog Cloud
+Frost Fingers
+Gift of Alacrity
+Goodberry
+Grease
+Guiding Bolt
+Guiding Hand (UA)
+Hail of Thorns
+Healing Elixir (UA)
+Healing Word
+Hellish Rebuke
+Heroism
+Hex
+Hunter's Mark
+Ice Knife
+Id Insinuation (UA)
+Identify
+Illusory Script
+Infallible Relay (UA)
+Inflict Wounds
+Jim's Magic Missile
+Jump
+Longstrider
+Mage Armor
+Magic Missile
+Magnify Gravity
+Protection from Evil and Good
+Puppet (UA)
+Purify Food and Drink
+Ray of Sickness
+Remote Access (UA)
+Sanctuary
+Searing Smite
+Sense Emotion (UA)
+Shield
+Shield of Faith
+Silent Image
+Sleep
+Snare
+Speak with Animals
+Sudden Awakening (UA)
+Tasha's Caustic Brew
+Tasha's Hideous Laughter
+Tenser's Floating Disk
+Thunderous Smite
+Thunderwave
+Unearthly Chorus (UA)
+Unseen Servant
+Wild Cunning (UA)
+Witch Bolt
+Wrathful Smite
+Zephyr Strike
+Aganazzar's Scorcher
+Aid
+Alter Self
+Animal Messenger
+Arcane Hacking (UA)
+Arcane Lock
+Augury
+Barkskin
+Beast Sense
+Blindness/Deafness
+Blur
+Branding Smite
+Calm Emotions
+Cloud of Daggers
+Continual Flame
+Cordon of Arrows
+Crown of Madness
+Darkness
+Darkvision
+Detect Thoughts
+Digital Phantom (UA)
+Dragon's Breath
+Dust Devil
+Earthbind
+Enhance Ability
+Enlarge/Reduce
+Enthrall
+Find Steed
+Find Traps
+Find Vehicle (UA)
+Flame Blade
+Flaming Sphere
+Flock of Familiars
+Fortune's Favor
+Gentle Repose
+Gift of Gab
+Gust of Wind
+Healing Spirit
+Heat Metal
+Hold Person
+Icingdeath's Frost (UA)
+Immovable Object
+Invisibility
+Jim's Glowing Coin
+Knock
+Lesser Restoration
+Levitate
+Locate Animals or Plants
+Locate Object
+Magic Mouth
+Magic Weapon
+Maximillian's Earthen Grasp
+Melf's Acid Arrow
+Mental Barrier (UA)
+Mind Spike
+Mind Thrust (UA)
+Mirror Image
+Misty Step
+Moonbeam
+Nathair's Mischief (UA)
+Nystul's Magic Aura
+Pass Without Trace
+Phantasmal Force
+Prayer of Healing
+Protection from Poison
+Pyrotechnics
+Ray of Enfeeblement
+Rope Trick
+Scorching Ray
+See Invisibility
+Shadow Blade
+Shatter
+Silence
+Skywrite
+Snilloc's Snowball Storm
+Spider Climb
+Spike Growth
+Spiritual Weapon
+Suggestion
+Summon Beast
+Tasha's Mind Whip
+Thought Shield (UA)
+Warding Bond
+Warding Wind
+Web
+Wristpocket
+Zone of Truth
+Animate Dead
+Aura of Vitality
+Beacon of Hope
+Bestow Curse
+Blinding Smite
+Blink
+Call Lightning
+Catnap
+Clairvoyance
+Conjure Animals
+Conjure Barrage
+Conjure Lesser Demon (UA)
+Counterspell
+Create Food and Water
+Crusader's Mantle
+Daylight
+Dispel Magic
+Elemental Weapon
+Enemies Abound
+Erupting Earth
+Fast Friends
+Fear
+Feign Death
+Fireball
+Flame Arrows
+Flame Stride (UA)
+Fly
+Galder's Tower
+Gaseous Form
+Glyph of Warding
+Haste
+Haywire (UA)
+Hunger Of Hadar
+Hypnotic Pattern
+Incite Greed
+Intellect Fortress
+Invisibility To Cameras (UA)
+Leomund's Tiny Hut
+Life Transference
+Lightning Arrow
+Lightning Bolt
+Magic Circle
+Major Image
+Mass Healing Word
+Meld into Stone
+Melf's Minute Meteors
+Motivational Speech
+Nondetection
+Phantom Steed
+Plant Growth
+Protection from Ballistics (UA)
+Protection from Energy
+Psionic Blast (UA)
+Pulse Wave
+Remove Curse
+Revivify
+Sending
+Sleet Storm
+Slow
+Speak with Dead
+Speak with Plants
+Spirit Guardians
+Spirit Shroud
+Stinking Cloud
+Summon Fey
+Summon Lesser Demons
+Summon Shadowspawn
+Summon Undead
+Thunder Step
+Tidal Wave
+Tiny Servant
+Tongues
+Vampiric Touch
+Wall of Sand
+Wall of Water
+Water Breathing
+Water Walk
+Wind Wall
+Arcane Eye
+Aura of Life
+Aura of Purity
+Banishment
+Blight
+Charm Monster
+Compulsion
+Confusion
+Conjure Barlgura (UA)
+Conjure Knowbot (UA)
+Conjure Minor Elementals
+Conjure Shadow Demon (UA)
+Conjure Woodland Beings
+Control Water
+Death Ward
+Dimension Door
+Divination
+Dominate Beast
+Ego Whip (UA)
+Elemental Bane
+Evard's Black Tentacles
+Fabricate
+Find Greater Steed
+Fire Shield
+Freedom of Movement
+Galder's Speedy Courier
+Giant Insect
+Grasping Vine
+Gravity Sinkhole
+Greater Invisibility
+Guardian of Faith
+Guardian of Nature
+Hallucinatory Terrain
+Ice Storm
+Leomund's Secret Chest
+Locate Creature
+Mordenkainen's Faithful Hound
+Mordenkainen's Private Sanctum
+Otiluke's Resilient Sphere
+Phantasmal Killer
+Polymorph
+Raulothim's Psychic Lance (UA)
+Shadow Of Moil
+Sickening Radiance
+Staggering Smite
+Stone Shape
+Stoneskin
+Storm Sphere
+Summon Aberration
+Summon Construct
+Summon Elemental
+Summon Greater Demon
+Synchronicity (UA)
+System Backdoor (UA)
+Vitriolic Sphere
+Wall of Fire
+Watery Sphere
+Widogast's Vault of Amber (HB)
+Widogast's Web of Fire (HB)
+Animate Objects
+Antilife Shell
+Awaken
+Banishing Smite
+Bigby's Hand
+Circle of Power
+Cloudkill
+Commune
+Commune with City (UA)
+Commune with Nature
+Cone of Cold
+Conjure Elemental
+Conjure Volley
+Conjure Vrock (UA)
+Contact Other Plane
+Contagion
+Control Winds
+Creation
+Danse Macabre
+Dawn
+Destructive Wave
+Dispel Evil and Good
+Dominate Person
+Dream
+Enervation
+Far Step
+Flame Strike
+Geas
+Greater Restoration
+Hallow
+Hold Monster
+Holy Weapon
+Immolation
+Infernal Calling
+Insect Plague
+Legend Lore
+Maelstrom
+Mass Cure Wounds
+Mislead
+Modify Memory
+Negative Energy Flood
+Passwall
+Planar Binding
+Raise Dead
+Rary's Telepathic Bond
+Reincarnate
+Scrying
+Seeming
+Shutdown (UA)
+Skill Empowerment
+Steel Wind Strike
+Summon Celestial
+Summon Draconic Spirit (UA)
+Swift Quiver
+Synaptic Static
+Telekinesis
+Teleportation Circle
+Temporal Shunt
+Transmute Rock
+Tree Stride
+Wall of Force
+Wall Of Light
+Wall of Stone
+Wrath Of Nature
+Arcane Gate
+Blade Barrier
+Bones of the Earth
+Chain Lightning
+Circle of Death
+Conjure Fey
+Contingency
+Create Homunculus
+Create Undead
+Disintegrate
+Drawmij's Instant Summons
+Druid Grove
+Eyebite
+Find the Path
+Fizban's Platinum Shield (UA)
+Flesh to Stone
+Forbiddance
+Globe of Invulnerability
+Gravity Fissure
+Guards and Wards
+Harm
+Heal
+Heroes' Feast
+Investiture of Flame
+Investiture of Ice
+Investiture of Stone
+Investiture of Wind
+Magic Jar
+Mass Suggestion
+Mental Prison
+Move Earth
+Otherworldly Form (UA)
+Otiluke's Freezing Sphere
+Otto's Irresistible Dance
+Planar Ally
+Primordial Ward
+Programmed Illusion
+Psychic Crush (UA)
+Scatter
+Soul Cage
+Summon Fiend
+Sunbeam
+Tasha's Otherworldly Guise
+Tenser's Transformation
+Transport via Plants
+True Seeing
+Wall of Ice
+Wall of Thorns
+Widogast's Transmogrification (HB)
+Wind Walk
+Word of Recall
+Conjure Celestial
+Conjure Hezrou (UA)
+Create Magen
+Crown Of Stars
+Delayed Blast Fireball
+Divine Word
+Draconic Transformation (UA)
+Dream of the Blue Veil
+Etherealness
+Finger of Death
+Fire Storm
+Forcecage
+Mirage Arcane
+Mordenkainen's Magnificent Mansion
+Mordenkainen's Sword
+Plane Shift
+Power Word: Pain
+Prismatic Spray
+Project Image
+Regenerate
+Resurrection
+Reverse Gravity
+Sequester
+Simulacrum
+Symbol
+Teleport
+Temple of the Gods
+Tether Essence
+Whirlwind
+Abi-Dalzim's Horrid Wilting
+Animal Shapes
+Antimagic Field
+Antipathy/Sympathy
+Clone
+Control Weather
+Dark Star
+Demiplane
+Dominate Monster
+Earthquake
+Feeblemind
+Glibness
+Holy Aura
+Illusory Dragon
+Incendiary Cloud
+Maddening Darkness
+Maze
+Mighty Fortress
+Mind Blank
+Power Word: Stun
+Reality Break
+Sunburst
+Telepathy
+Tsunami
+Astral Projection
+Blade of Disaster
+Foresight
+Gate
+Imprisonment
+Invulnerability
+Mass Heal
+Mass Polymorph
+Meteor Swarm
+Power Word: Heal
+Power Word: Kill
+Prismatic Wall
+Psychic Scream
+Ravenous Void
+Shapechange
+Storm of Vengeance
+Time Ravage
+Time Stop
+True Polymorph
+True Resurrection
+Weird
+Wish
+Blade of Disaster

@@ -1,0 +1,9 @@
+Aquatic (Fresh)
+Arctic
+Aquatic (Oceanic/Coastal)
+Desert
+Forest
+Grassland
+Mountain
+Swamp
+Wasteland

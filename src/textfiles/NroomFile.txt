@@ -1,0 +1,19 @@
+Undead: 3-10 Zombies
+Undead: 3-10 Skeletons
+Minotaur
+Taractect Nest: 3-6 Lesser Taratects + 1 Taratect
+Basilisk Nest: 1-3 Basilisks
+Quicksand Room
+Empty Room
+Pond Room
+Spell Gas Level v1
+Spell Gas Level v2
+Spell Gas Level 7
+Spell Gas Level 9
+Poison Gas
+Disorienting Gas 
+Magma Room
+Fungus Room (Provides random potion effects)
+Spell Gas Level 8
+Crumbled Blockage
+Bullettes 1-2

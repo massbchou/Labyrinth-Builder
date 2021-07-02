@@ -1,0 +1,16 @@
+Light Crossbow
+Darts
+Shortbow
+Sling
+Blowgun
+Hand Crossbow
+Heavy Crossbow
+Longbow
+Net
+Throwing Axe
+Arcane Pistol
+Throwing Knife
+Shuriken
+Hand Grenade
+Quiver
+Boomerang

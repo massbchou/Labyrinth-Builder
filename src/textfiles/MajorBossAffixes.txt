@@ -1,0 +1,41 @@
+Angelic Weapons: The Boss’s Weapon attacks are magical and deal an extra PBd8 radiant damage on hit
+Blood Frenzy: The Boss Targets the character with the lowest hitpoints. It has advantage on attacks against a creature that has less than half its hitpoints
+Enhanced Breath Weapon: 90ft cone, CRd8 damage, random damage type.
+Damage Absorption: Regains hitpoints instead of taking damage when exposed to a certain damage type
+Enhanced Death Burst: Boss explodes upon death causing all creatures within 20 ft to make a dex save or take 2xPBd10 fire damage
+Elemental Aura: All creatures within 10ft of the boss must make a constitution saving throw at the start of each of its turns. On a failure a creature takes PBd4 damage of a random type and gains vulnerability to that damage type for 1 turn.
+Frightful Presence: The first time any creature sees the Boss it must make a Wisdom saving throw or become frightened for 1 minute. A creature can repeat the save at the end of each of its turns. On a success the creature is immune to this effect for 24 hours.
+Legendary Resistance: The Boss can choose to succeed on a saving throw 3 times per day. 
+Superior Invisibility: The Boss can turn invisible at will, though it requires concentration.
+Relentless: If the Boss takes damage equal to 5% of its max hitpoints or less that would reduce it to 0 hitpoints, it is reduced to 1 hitpoint instead.
+Wounded Frenzy: While it is below 25% hitpoints, the boss has advantage on attack rolls.  The Boss deals 2d6 extra damage for each 20% hp it is missing. 
+Adaptable: The Boss takes 50% less damage from consecutive damage types.
+Arctic: The Boss produces a chilling aura within a 15ft cone of it. A creature in the chilling aura has vulnerability to cold damage and has its movement speed halved. It also can only take 1 action per turn, but not a bonus action or reaction. It can reposition the cone as a free action on its turn.
+Desecrating: On Initiative count 10, the boss sets 3 10 x 10 harming clouds within 300 ft of it. The clouds activate after 1 turn and last for two turns. A creature that starts its turn in an active cloud takes PBd12 force damage.
+Enkindling: The Boss produces an igniting aura in a 15 foot cone. A creature in the aura has vulnerability to fire damage and it takes 1d6 fire damage for each foot it moves. It also has disadvantage on attacks against the boss. 
+Hasty: The Boss has two bonus actions and two reactions. Its movement speed is doubled. 
+Infested: When the boss lands an attack or takes damage it spawns a mite. Mites have 1 hitpoint, +3 to hit, deal 4(1d6+1) piercing damage, and 20ft movement speed. 
+Knocking: The Boss’s attacks knock targets back 10ft. Targets must make a Constitution saving throw or be affected by the slow spell for 1 turn. 
+Lively: Regenerates 5 hitpoints at the start of each of its turns. If the boss hasn’t taken damage for 1 round this regeneration doubles for each round. 
+Molten: The Boss is immune to fire damage. Its attacks ignite targets and ignore resistance. Ignited targets take 1d4 fire damage at the end of each of its turns until it is put out with an action. Ignite stacks.
+Magnetic: The Boss can pull metal objects towards it as a free action on its turn.
+Paralyzing: If the Boss hits a creature 4 times consecutively the creature must make a constitution saving throw or be paralyzed for 1 minute. It can repeat the saving throw at the end of each of its turns. 
+Plagued: When a creature is damaged by the Boss it must make a Constitution saving throw or become poisoned for 1 round.
+Reflective: The Boss reflects 10% of the damage it takes. (It still takes the full damage) 
+Wounding: Taking Damage from the Boss applies Wound stacks. Each wound stack decreases healing by 10% and increases damage taken by 5%. A restoration spell removes all wound stacks. Wound stacks decrease by 2 for each round that the creature has not taken damage.
+1UP: upon reaching 25% hp the Boss regains all its hitpoints.
+Alchemist: The Boss gains a random potion effect at the start of each of its turns.
+Berserk: The Boss deals double damage, but has its AC halved and takes damage equivalent to the damage it deals. This effect is clearly visible before the battle.
+Blastoff: Taking damage due to direct attacks from the Boss forces a creature to make a dexterity saving throw or be launched 10 ft into the air. 
+Bulwark: The Boss takes half damage from all sources but deals half damage.
+Darkness: The Boss casts the darkness spell at the end of each of its turns centered on itself.
+Exhaust: The Boss casts the Slow spell on a creature at the start of each of its turns. It does not need to maintain concentration.
+Gravity: The Boss can use its bonus action to change the direction of gravity in the room.
+Lifesteal: The Boss regains hitpoints equal to 10% of the damage it deals from melee weapon attacks.
+Ninja: The Boss can teleport up to 30 ft as a reaction. Doing this in response to an attack causes the attack to miss.
+Rust: An attack against the boss has a 25% to cause the weapon used to take a -1 to damage rolls. An attack from the boss has a 10% chance to cause any armor worn by the creature to take a -1 to AC bonus
+Sapper: Taking Damage from the boss forces the target to make a DC 11 constitution saving throw or take 1 level of exhaustion.
+Sprint: The Boss gains Action Surge (recharge 6)
+Sticky: Items stick to the Boss. A DC 15 Strength check is required to pull one off.
+Storm: The Boss summons 4 lightning bolts at the start of each of its turns. The Bolts have radius 15 and strike after 1 round. A creature struck by a bolt takes 8d6 lightning damage.
+Twin: There are two bosses both with half its hp.

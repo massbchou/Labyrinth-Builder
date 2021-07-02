@@ -1,0 +1,48 @@
+All Rounder: +1 to all stats
+Unstoppable Force: Boss movement cannot be changed. 
+Regeneration: Boss regains 5 hitpoints at the start of each of its turns. 
+Shielding: Boss gains the Shield Spell lasting for one turn
+Aggressive: Boss can move its speed to a hostile target as a bonus action
+Ambusher: Boss has advantage against surprised creatures. 
+Amorphous: Boss can fit into a space as small as 1 inch.
+Amphibious: Boss can swim and breath underwater
+Blind Senses: Boss has 30ft Blindsight
+Perceptive: Boss has +5 to perception checks
+Breath Weapon: 30ft cone, CRd6 damage, random damage type.
+Brute: Boss’s Melee attacks deal 1 Extra Damage Dice
+Chameleon Skin: Boss has advantage on Stealth Checks
+Charge: If the Boss moves 30ft in 1 turn it deals an additional PBd6 damage
+Death Burst: Boss explodes upon death causing all creatures within 20 ft to make a dex save or take 2xPBd6 fire damage
+Devil Sight: Boss can see through Magical Darkness
+Barbed Hide: Boss deals 2d10 piercing damage per turn to any creature grappling or grappled by it. 
+Elemental Body: A creature that touches the Boss or hits it with a melee attack takes 1d10 damage of a random type.
+Enlarge: The boss can cast Enlarge once per day
+Fey Ancestry: The Boss has advantage against the Charmed effect and cannot be put to sleep by magic
+Fiendish Blessing: Boss gains AC equal to its Charisma Bonus
+Flyby: Boss does not provoke opportunity attacks
+Grappler: The Boss has advantage on attack rolls against any creature it is grappling or is grappling it.
+Detect Life: The Boss knows the direction of any living creature within 1 mile of it
+Immutable Form: The Boss is immune to any effect that would alter its form
+Incorporeal Movement: The Boss can move through other creatures and objects as if they were difficult terrain. It takes 2d10 force damage each time it ends its turn in an object.
+Inscrutable: The Boss is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses.
+Keen Senses: The Boss has advantage on perception checks
+Legendary Resistance: The Boss can choose to succeed on a saving throw once per day. 
+Magic Resistance: The Boss has advantage on saving throws against magic
+Magic Weapons: The Boss’s attacks are magical for the purposes of overcoming magical resistances and immunities.
+Nimble Escape: The Boss can take the Disengage or Hide Action as a bonus action
+Riposte: The Boss can add 3 to its AC against one melee attack that would hit it as a reaction. If the attack now misses, the Boss can make a melee attack.
+Pounce: If the Boss moves at least 20 feet straight towards a target and hits it with a melee weapon attack on the same turn, the target must make a strength saving throw or be knocked prone. If the target is prone the Boss can make a Melee Weapon attack as a bonus action. 
+Psychic Defense: The Boss gains AC equal to its Intelligence Modifier while it is not wearing armor.
+Rampage: If the Boss reduces a creature to 0 hitpoints with a melee attack on its turn, it can take a bonus action to move half its speed and make another attack.
+Reactive: The Boss can take a reaction on every turn in combat. 
+Reckless: The Boss can gain advantage on all melee attacks this turn, but attacks against it have advantage until the start of its next turn.
+Relentless: If the Boss takes damage equal to 10% of its max hitpoints or less that would reduce it to 0 hitpoints, it is reduced to 1 hitpoint instead (recharged on a short rest). 
+Shadow Stealth: While in darkness or dim light the Boss can take the Hide Action as a bonus action.
+Siege Monster: The Boss deals triple damage to structures and objects.
+Spider Climb: The Boss can climb walls without difficulties. 
+Steadfast: The Boss cannot be frightened.
+Teleport: The Boss can teleport up to 120 ft as a bonus action
+Tunneler: The Boss can burrow through solid rock at half its movement speed leaving a 5 x 8 tunnel in its wake.
+Undead Fortitude: If damage reduces the Boss to 0 hitpoints it must make a Constitution save equal to 5 + damage taken unless the damage is from a critical or is radiant. On a success the Boss drops to 1 hitpoint instead.
+Wounded Fury: While it is below 25% hitpoints, the boss has advantage on attack rolls and deals PBd6 extra damage to any targets it hits with a melee attack. 
+Dampening: Boss takes 50% less indirect damage

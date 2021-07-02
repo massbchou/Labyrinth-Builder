@@ -1,0 +1,87 @@
+Animated Shield
+Armor, +2
+Demon Armor
+Dragon Scale Mail
+Dwarven Plate
+Shield, +3
+Spellguard Shield
+Oil of Sharpness
+Potion of Cloud Giant Strength
+Potion of Flying
+Potion of Invisibility
+Potion of Longevity
+Potion of Speed
+Potion of Supreme Healing
+Potion of Vitality
+Ring of Regeneration
+Ring of Shooting Stars
+Ring of Telekinesis
+Rod of Absorption
+Rod of Alertness
+Rod of Security
+Rod of the Pact Keeper, +3
+Spell Scroll, 6th Level
+Spell Scroll, 7th Level
+Spell Scroll, 8th Level
+Staff of Fire
+Staff of Frost
+Staff of Power
+Staff of Striking
+Staff of Thunder and Lightning
+Wand of Polymorph
+Wand of the War Mage, +3
+Ammunition, +3
+Arrow of Slaying
+Dancing Sword
+Dwarven Thrower
+Frost Brand
+Moon Sickle, +3
+Nine Lives Stealer
+Oathbow
+Scimitar of Speed
+Sword of Sharpness
+Weapon, +3
+Absorbing Tattoo
+All-Purpose Tool, +3
+Amulet of the Devout, +3
+Amulet of the Planes
+Arcane Grimoire, +3
+Bag of Devouring
+Barrier Tattoo, AC 18
+Belt of Fire Giant Strength
+Belt of Frost Giant Strength
+Belt of Stone Giant Strength
+Bloodwell Vial, +3
+Candle of Invocation
+Carpet of Flying
+Cauldron of Rebirth
+Cloak of Arachnida
+Crystal Ball
+Crystalline Chronicle
+Efreeti Bottle
+Figurine of Wondrous Power, Obsidian Steed
+Ghost Step Tattoo
+Helm of Brilliance
+Horn of Valhalla, Bronze
+Horseshoes of a Zephyr
+Instrument of the Bards, Anstruth Harp
+Ioun Stone, Absorption
+Ioun Stone, Agility
+Ioun Stone, Fortitude
+Ioun Stone, Insight
+Ioun Stone, Intellect
+Ioun Stone, Leadership
+Ioun Stone, Strength
+Lifewell Tattoo
+Manual of Bodily Health
+Manual of Gainful Exercise
+Manual of Golems
+Manual of Quickness of Action
+Mirror of Life Trapping
+Nolzur's Marvelous Pigments
+Rhythm-Maker's Drum, +3
+Robe of Scintillating Colors
+Robe of Stars
+Tome of Clear Thought
+Tome of Leadership and Influence
+Tome of Understanding

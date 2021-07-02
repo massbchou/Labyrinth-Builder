@@ -1,0 +1,14 @@
+Shield
+Tower Shield
+Padded Cloth
+Leather Armor
+Studded Leather Armor
+Hide Armor
+Chain Shirt
+Scale mail
+Half plate
+Ring mail
+Chain mail
+Splint
+Plate
+Gloves

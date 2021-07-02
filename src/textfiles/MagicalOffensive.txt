@@ -1,0 +1,7 @@
+Wand
+Quarterstaff
+Battlestaff
+Spellbook
+Crystal Ball
+Witch's Hat
+Amplifier

@@ -1,0 +1,146 @@
+Armor of Resistance
+Armor of Vulnerability
+Armor, +1
+Arrow-catching Shield
+Elven Chain
+Glamoured Studded Leather
+Shield of Missile Attraction
+Shield, +2
+Elixir of Health
+Oil of Etherealness
+Potion of Clairvoyance
+Potion of Diminution
+Potion of Fire Giant Strength
+Potion of Frost Giant Strength
+Potion of Gaseous Form
+Potion of Heroism
+Potion of Invulnerability
+Potion of Mind Reading
+Potion of Stone Giant Strength
+Potion of Superior Healing
+Ring of Animal Influence
+Ring of Evasion
+Ring of Feather Falling
+Ring of Free Action
+Ring of Protection
+Ring of Resistance
+Ring of Spell Storing
+Ring of X-ray Vision
+Ring of the Ram
+Rod of Rulership
+Rod of the Pact Keeper, +2
+Tentacle Rod
+Scroll of Protection
+Spell Scroll, 4th Level
+Spell Scroll, 5th Level
+Staff of Charming
+Staff of Healing
+Staff of Swarming Insects
+Staff of Withering
+Staff of the Woodlands
+Wand of Binding
+Wand of Enemy Detection
+Wand of Fear
+Wand of Fireballs
+Wand of Lightning Bolts
+Wand of Paralysis
+Wand of Wonder
+Wand of the War Mage, +2
+Ammunition, +2
+Berserker Axe
+Dagger of Venom
+Devotee's Censer
+Dragon Slayer
+Flame Tongue
+Giant Slayer
+Mace of Disruption
+Mace of Smiting
+Mace of Terror
+Moon Sickle, +2
+Sun Blade
+Sword of Life Stealing
+Sword of Wounding
+Vicious Weapon
+Weapon, +2
+Alchemical Compendium
+All-Purpose Tool, +2
+Amulet of Health
+Amulet of the Devout, +2
+Arcane Grimoire, +2
+Astral Shard
+Astromancy Archive
+Atlas of Endless Horizons
+Bag of Beans
+Barrier Tattoo, AC 15
+Bead of Force
+Bell Branch
+Belt of Dwarvenkind
+Belt of Hill Giant Strength
+Bloodwell Vial, +2
+Boots of Levitation
+Boots of Speed
+Bowl of Commanding Water Elementals
+Bracers of Defense
+Brazier of Commanding Fire Elementals
+Cape of the Mountebank
+Censer of Controlling Air Elementals
+Chime of Opening
+Cloak of Displacement
+Cloak of the Bat
+Cube of Force
+Daern's Instant Fortress
+Dimensional Shackles
+Duplicitous Manuscript
+Elemental Essence Shard, Air
+Elemental Essence Shard, Earth
+Elemental Essence Shard, Fire
+Elemental Essence Shard, Water
+Far Realm Shard
+Figurine of Wondrous Power, Bronze Griffon
+Figurine of Wondrous Power, Ebony Fly
+Figurine of Wondrous Power, Golden Lions
+Figurine of Wondrous Power, Ivory Goats
+Figurine of Wondrous Power, Marble Elephant
+Figurine of Wondrous Power, Onyx Dog
+Figurine of Wondrous Power, Serpentine Owl
+Folding Boat
+Fulminating Treatise
+Gem of Seeing
+Heart Weaver's Primer
+Helm of Teleportation
+Heward's Handy Haversack
+Horn of Blasting
+Horn of Valhalla, Brass
+Horn of Valhalla, Silver
+Horseshoes of Speed
+Instrument of the Bards, Canaith Mandolin
+Instrument of the Bards, Cli Lyre
+Ioun Stone, Awareness
+Ioun Stone, Protection
+Ioun Stone, Reserve
+Ioun Stone, Sustenance
+Iron Bands of Bilarro
+Libram of Souls and Flesh
+Lyre of Building
+Mantle of Spell Resistance
+Necklace of Fireballs
+Necklace of Prayer Beads
+Outer Essence Shard, Chaotic
+Outer Essence Shard, Evil
+Outer Essence Shard, Good
+Outer Essence Shard, Lawful
+Periapt of Proof Against Poison
+Planecaller's Codex
+Portable Hole
+Protective Verses
+Quaal's Feather Token
+Reveler's Concertina
+Rhythm-Maker's Drum, +2
+Robe of Eyes
+Rope of Entanglement
+Shadowfell Brand Tattoo
+Shadowfell Shard
+Spellwrought Tattoo, 4th Level
+Spellwrought Tattoo, 5th Level
+Stone of Controlling Earth Elementals
+Wings of Flying

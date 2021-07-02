@@ -1,0 +1,12 @@
+Ring
+Alexandrite
+Amethyst
+Diamond
+Sapphire
+Emerald
+Ruby
+Amulet
+Necklace
+Bracelet
+Circlet
+Crown

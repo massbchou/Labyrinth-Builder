@@ -1,0 +1,5 @@
+Cloak
+Robes
+Gloves
+Boots
+Ward
