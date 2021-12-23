@@ -63,7 +63,7 @@ public class Passages {
                     return "Right Turn";
             }   
         }
-        else if (UserInterface.isBetween(71, 90, temp)) {
+        else if (UserInterface.isBetween(71, 91, temp)) {
             temp = UserInterface.randomize(1,100);
             if (UserInterface.isBetween(1, 70, temp)) {
                 return "Normal Room";
@@ -78,7 +78,7 @@ public class Passages {
                 return "Treasure Room";
             }
         }
-        else if (UserInterface.isBetween(91, 93, temp)) {
+        else if (UserInterface.isBetween(92, 93, temp)) {
             return "Passage to Middle Stratum";
         }
         else if (UserInterface.isBetween(94, 99, temp)){
