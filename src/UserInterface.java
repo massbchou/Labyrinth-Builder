@@ -22,7 +22,7 @@ public class UserInterface {
         public static String MajorBossAffixes = "C:\\Users\\bchou\\OneDrive\\Documents\\My Projects\\Labyrinth Builder\\src\\textfiles\\MajorBossAffixes.txt";
         public static String MidBossList = "C:\\Users\\bchou\\OneDrive\\Documents\\My Projects\\Labyrinth Builder\\src\\textfiles\\MidBossList.txt";
         public static String MajorBossList = "C:\\Users\\bchou\\OneDrive\\Documents\\My Projects\\Labyrinth Builder\\src\\textfiles\\MajorBossList.txt";
-        
+        //comment
         public static Rivers river = new Rivers();
         public static Passages passage = new Passages();
         public static NormalRoom Nroom = new NormalRoom();
